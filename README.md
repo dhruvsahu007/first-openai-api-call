@@ -17,7 +17,6 @@ It uses:
 ```bash
 git clone https://github.com/dhruvsahu007/first-openai-api-call.git
 cd first-openai-api-call
-## 2. Set Up Virtual Environment
 
 ```
 ## 2. Set Up Virtual Environment
@@ -25,7 +24,6 @@ cd first-openai-api-call
 ```bash
 python -m venv venv
 venv\Scripts\activate   # For Windows
-# or use `source venv/bin/activate` on Mac/Linux
 
 ```
 ## 3. Install Dependencies
